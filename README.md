@@ -1,4 +1,4 @@
-# Esse reposiório descreve 3 ténicas dentro de POO
+# Esse reposiório descreve 3 técnicas dentro de POO
 
 # Herança
 
